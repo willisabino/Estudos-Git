@@ -3,3 +3,5 @@ Commit c1
 Commit c2
 
 Commit c3 - feature/b1
+
+Commit c4 - feature/b1
