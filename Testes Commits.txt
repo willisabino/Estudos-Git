@@ -15,3 +15,5 @@ commit c9 - main - stash
 Commit c6 - feature/b2
 
 Commit c10 - feature/b2 - teste cherry-pick
+
+Commit c12 - feature/b1 - teste cherry-pick
