@@ -15,3 +15,5 @@ Commit c10 - feature/b2 - teste cherry-pick
 Commit c15 - feature/b3
 
 Commit c16 - feature/b3
+
+Commit c20 - feature/b3 - teste rebase
