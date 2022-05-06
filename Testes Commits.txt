@@ -11,3 +11,5 @@ commit c7 - feature/b1
 Commit c12 - feature/b1 - teste cherry-pick
 
 Commit c14 - main - teste cherry-pick
+
+Commit c19 - feature/b1 - teste rebase
