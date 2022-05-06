@@ -13,3 +13,5 @@ Commit c6 - feature/b2
 Commit c10 - feature/b2 - teste cherry-pick
 
 Commit c15 - feature/b3
+
+Commit c16 - feature/b3
